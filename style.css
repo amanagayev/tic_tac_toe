@@ -1,0 +1,55 @@
+.body1 {
+    font-family: 'Tinos', serif;
+    font-weight: 500;
+    color: #7a0901;
+    background-color: ##eeedff;
+}
+
+.myheader {
+    height: 10px;
+}
+
+.jumbotron {
+    background-color: #e6e3ff
+    !important;
+}
+
+.btn {
+    text-shadow: #ffffff 1px 0 10px;
+}
+
+.game-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 320px;
+    text-align: center;
+}
+
+.table-cells {
+    border: black solid 2px;
+    height: 100px;
+    width: 100px;
+    font-size: 60px;
+}
+
+#left-bottom {
+    position: absolute;
+    bottom: 0;
+    float: left;
+    margin: 0px 0px 0px 50px;
+    font-size: 14px;
+}
+
+#right-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+    margin: 0px 50px 0px 0px;
+    font-size: 14px;
+    float: right;
+}
+
+.ahref {
+    color: #7a0901;
+}
